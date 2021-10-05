@@ -1,3 +1,8 @@
+#### Name: Andrey Risukhin
+- Place: Seattle, Washington State, US
+- Bio: Excited CS student at the Allen School of CSE at UW. This is my first open source contribution for Hacktoberfest 2021, I am looking forward to learning how to be an open source contributor.
+- GitHub: [andreyrisukhin](https://github.com/andreyrisukhin)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
